@@ -1,4 +1,4 @@
 # WebPage
 
 GodSpeed Live Link :- 
-  https://vijay-thumar.github.io/WebPage/GodSpeed/index.html
+  http://sahilkhan.me/Sahilkhan_agro/GodSpeed/index.html
